@@ -21,7 +21,7 @@ public class DayThree {
 //        int b = sc.nextInt();
 //          int c = a + b;
 //
-//        System.out.println("The sum is: " + c);
+//        System.out.println("The sum is: " + (a+b));
 
         // take firstName and lastName and print the full name
 //        System.out.print("Enter the First Name: ");
@@ -69,6 +69,7 @@ public class DayThree {
         // Declared an array
         String[] str;                     // Empty array
         int[] values = {10, 20, 30, 40, 50};
+
 
         // access the array = arrayName[index_you_want_to_access]
         System.out.println("The value at index 0 is: " + values[0]);
